@@ -1,0 +1,30 @@
+{
+  "name": "turf-isClockwise",
+  "version": "0.0.1",
+  "description": "turf isClockwise module",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/turf-isClockwise.git"
+  },
+  "keywords": [
+    "clockwise",
+    "turf",
+    "geojson",
+    "coordinates",
+    "gis",
+    "geo"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/turf-isClockwise/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/turf-isClockwise",
+  "devDependencies": {
+    "tape": "^2.13.1"
+  }
+}
