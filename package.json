@@ -1,5 +1,5 @@
 {
-  "name": "turf-isClockwise",
+  "name": "turf-is-clockwise",
   "version": "0.0.1",
   "description": "turf isClockwise module",
   "main": "index.js",
