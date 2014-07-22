@@ -4,6 +4,26 @@ turf-isClockwise
 
 Takes a ring and return true or false whether or not the ring is clockwise or counter-clockwise.
 
+###Install
+
+```sh
+npm install turf-is-clockwise
+```
+
+###Parameters
+
+|name|description|
+|---|---|
+|ring|an array of coordinates|
+
+###Usage
+
+```js
+isClockwise(ring)
+```
+
+###Example
+
 ```js
 var isClockwise = require('turf-is-clockwise')
 
